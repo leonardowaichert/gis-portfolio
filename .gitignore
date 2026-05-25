@@ -1,0 +1,23 @@
+# ArcGIS Pro
+*.gdb/
+*.lock
+*.atbx
+*.aprx
+*.aprx.lock
+*.rec
+*.cim
+.locks/
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
